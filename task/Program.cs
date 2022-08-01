@@ -20,3 +20,6 @@ void PrintArray(string[] array)
         Console.Write($"{array[i]} ");
     }
     Console.WriteLine();
+
+ HelperArray(arr1, arr2);
+PrintArray(arr2);
